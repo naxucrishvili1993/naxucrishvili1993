@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m highly motivated Junior Web Developer with experience in building and maintaining web applications.<br>👯 I’m looking to deliver excellent web development skills.
+🔭 I’m highly motivated Junior Front-end Developer with experience in building and maintaining web applications.<br>👯 I’m looking to deliver excellent web development skills.
 
 
 ## 🌐 Socials:
